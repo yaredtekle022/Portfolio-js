@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yaredtekle022/Portfolio-js#readme",
   "devDependencies": {
+    "@hint/connector-local": "^3.2.24",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
