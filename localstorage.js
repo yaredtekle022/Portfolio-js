@@ -11,7 +11,7 @@ if (userInfo) {
   textareaInput.value = userInfo.textarea;
 }
 
-document.getElementById('form').addEventListener('submit', (e) => {
+document.getElementById('form').addEventListener('change', (e) => {
   e.preventDefault();
 
   // get values from nput
